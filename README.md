@@ -1,5 +1,5 @@
 # Calculating-Variance Using R
-This is code I wrote for geographic data analysis class on how to calculate computational variance and non-computational variance with R.
+This is code I wrote for my geographic data analysis class on how to calculate computational variance and non-computational variance with R.
 
 If you aren't familar with variance or need to refresh on it a bit here is an awesome link for you to do that http://www.miracosta.edu/Home/rmorrissette/Chapter05.htm
 
